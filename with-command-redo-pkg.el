@@ -1,0 +1,2 @@
+;; Generated package description from with-command-redo.el  -*- mode: lisp-data; no-byte-compile: t; lexical-binding:t -*-
+(define-package "with-command-redo" "0.1.0.20260504.211611" "Repeat commands with automatic undo" '((emacs "29.1")) :commit "d1c4be4bb3fb22dff8fcfb562912760be3a685e8" :authors '(("Campbell Barton" . "ideasman42@gmail.com")) :maintainer '("Campbell Barton" . "ideasman42@gmail.com") :url "https://codeberg.org/ideasman42/emacs-with-command-redo")
